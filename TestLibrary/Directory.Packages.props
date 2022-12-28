@@ -1,0 +1,10 @@
+<Project>
+	<PropertyGroup>
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageVersion Include="Microsoft.CSharp" Version="4.7.0" />
+		<PackageVersion Include="System.Windows.Extensions" Version="6.0.0" />
+		<PackageVersion Include="System.Resources.Extensions" Verison="6.0.0" />
+	</ItemGroup>
+</Project>
